@@ -1,6 +1,7 @@
-1.3 TEAM 7
+# 1.3 TEAM 7
 
-Niva Shirsekar
-Geoffrey Liu
-Sean Park
+## Members
+Niva Shirsekar<br>
+Geoffrey Liu<br>
+Sean Park<br>
 Bryan Chen
